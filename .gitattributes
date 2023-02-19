@@ -1,0 +1,2 @@
+*.gen.go						binary
+openapi-bundle.yml	binary
